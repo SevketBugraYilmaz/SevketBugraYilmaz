@@ -71,11 +71,6 @@
       <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=SevketBugraYilmaz&theme=dark&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SevketBugraYilmaz&layout=compact&langs_count=8&theme=dark"/>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SevketBugraYilmaz/SevketBugraYilmaz/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SevketBugraYilmaz/SevketBugraYilmaz/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/SevketBugraYilmaz/SevketBugraYilmaz/blob/output/github-snake-dark.svg" />
-</picture>
 <!---
 SevketBugraYilmaz/SevketBugraYilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
